@@ -1,209 +1,2812 @@
 [
-  { "name": "Aarav", "meaning": "Peaceful", "origin": "Sanskrit" },
-  { "name": "Aisha", "meaning": "Alive, prosperous", "origin": "Arabic" },
-  { "name": "David", "meaning": "Beloved", "origin": "Hebrew" },
-  { "name": "Emma", "meaning": "Whole, universal", "origin": "German" },
-  { "name": "Ishaan", "meaning": "The sun", "origin": "Sanskrit" },
-  { "name": "Fatima", "meaning": "Captivating", "origin": "Arabic" },
-  { "name": "Maya", "meaning": "Illusion", "origin": "Sanskrit" },
-  { "name": "Noah", "meaning": "Rest, comfort", "origin": "Hebrew" },
-  { "name": "Olivia", "meaning": "Olive tree", "origin": "Latin" },
-   { "name": "Aarav", "meaning": "Protector", "origin": "Sanskrit" },
-  { "name": "Vivaan", "meaning": "Graceful", "origin": "Sanskrit" },
-  { "name": "Aditya", "meaning": "Bringer of joy", "origin": "Sanskrit" },
-  { "name": "Krishna", "meaning": "Light", "origin": "Sanskrit" },
-  { "name": "Aryan", "meaning": "Noble", "origin": "Sanskrit" },
-  { "name": "Ishaan", "meaning": "Gift of God", "origin": "Sanskrit" },
-  { "name": "Lakshya", "meaning": "Graceful", "origin": "Sanskrit" },
-  { "name": "Kunal", "meaning": "Joyful", "origin": "Sanskrit" },
-  { "name": "Anaya", "meaning": "Hope", "origin": "Sanskrit" },
-  { "name": "Diya", "meaning": "Bringer of joy", "origin": "Sanskrit" },
-  { "name": "Tara", "meaning": "Graceful", "origin": "Sanskrit" },
-  { "name": "Meera", "meaning": "Light", "origin": "Sanskrit" },
-  { "name": "Riya", "meaning": "Hope", "origin": "Sanskrit" },
-  { "name": "Saanvi", "meaning": "Bringer of joy", "origin": "Sanskrit" },
-  { "name": "Tanvi", "meaning": "Joyful", "origin": "Sanskrit" },
-  { "name": "Avni", "meaning": "Light", "origin": "Sanskrit" },
-  { "name": "Kavya", "meaning": "Noble", "origin": "Sanskrit" },
-  { "name": "Anika", "meaning": "Gift of God", "origin": "Sanskrit" },
-  { "name": "Ira", "meaning": "Wise", "origin": "Sanskrit" },
-  { "name": "Nitya", "meaning": "Light", "origin": "Sanskrit" },
-  { "name": "Ved", "meaning": "Protector", "origin": "Sanskrit" },
-  { "name": "Yug", "meaning": "Hope", "origin": "Sanskrit" },
-  { "name": "Rudra", "meaning": "Wise", "origin": "Sanskrit" },
-  { "name": "Parth", "meaning": "Bringer of joy", "origin": "Sanskrit" },
-  { "name": "Om", "meaning": "Noble", "origin": "Sanskrit" },
-  { "name": "Arjun", "meaning": "Graceful", "origin": "Sanskrit" },
-  { "name": "Samar", "meaning": "Hope", "origin": "Sanskrit" },
-  { "name": "Dev", "meaning": "Joyful", "origin": "Sanskrit" },
-  { "name": "Neel", "meaning": "Wise", "origin": "Sanskrit" },
-  { "name": "Shaurya", "meaning": "Protector", "origin": "Sanskrit" },
-  { "name": "Radha", "meaning": "Graceful", "origin": "Sanskrit" },
-  { "name": "Kriti", "meaning": "Bringer of joy", "origin": "Sanskrit" },
-  { "name": "Charvi", "meaning": "Gift of God", "origin": "Sanskrit" },
-  { "name": "Radhika", "meaning": "Light", "origin": "Sanskrit" },
-  { "name": "Bhavya", "meaning": "Protector", "origin": "Sanskrit" },
-  { "name": "Aarohi", "meaning": "Hope", "origin": "Sanskrit" },
-  { "name": "Sharvani", "meaning": "Bringer of joy", "origin": "Sanskrit" },
-  { "name": "Vaidehi", "meaning": "Noble", "origin": "Sanskrit" },
-  { "name": "Sitara", "meaning": "Wise", "origin": "Sanskrit" },
-  { "name": "Trisha", "meaning": "Joyful", "origin": "Sanskrit" },
-  { "name": "Siddharth", "meaning": "Hope", "origin": "Sanskrit" },
-  { "name": "Hriday", "meaning": "Bringer of joy", "origin": "Sanskrit" },
-  { "name": "Yash", "meaning": "Graceful", "origin": "Sanskrit" },
-  { "name": "Raghav", "meaning": "Wise", "origin": "Sanskrit" },
-  { "name": "Bhuvan", "meaning": "Gift of God", "origin": "Sanskrit" },
-  { "name": "Tanish", "meaning": "Protector", "origin": "Sanskrit" },
-  { "name": "Ayaan", "meaning": "Noble", "origin": "Sanskrit" },
-  { "name": "Manan", "meaning": "Bringer of joy", "origin": "Sanskrit" },
-  { "name": "Harsh", "meaning": "Joyful", "origin": "Sanskrit" },
-  { "name": "Rajat", "meaning": "Light", "origin": "Sanskrit" },
-  { "name": "Anvay", "meaning": "Hope", "origin": "Sanskrit" },
-  { "name": "Darsh", "meaning": "Protector", "origin": "Sanskrit" },
-  { "name": "Reyansh", "meaning": "Noble", "origin": "Sanskrit" },
-  { "name": "Pranav", "meaning": "Wise", "origin": "Sanskrit" },
-  { "name": "Ansh", "meaning": "Light", "origin": "Sanskrit" },
-  { "name": "Vihaan", "meaning": "Joyful", "origin": "Sanskrit" },
-  { "name": "Shaunak", "meaning": "Hope", "origin": "Sanskrit" },
-  { "name": "Chinmay", "meaning": "Gift of God", "origin": "Sanskrit" },
-  { "name": "Divyansh", "meaning": "Bringer of joy", "origin": "Sanskrit" },
-  { "name": "Nirav", "meaning": "Protector", "origin": "Sanskrit" },
-  { "name": "Aadhya", "meaning": "Noble", "origin": "Sanskrit" },
-  { "name": "Aarushi", "meaning": "Light", "origin": "Sanskrit" },
-  { "name": "Shruti", "meaning": "Hope", "origin": "Sanskrit" },
-  { "name": "Ishita", "meaning": "Graceful", "origin": "Sanskrit" },
-  { "name": "Moksha", "meaning": "Wise", "origin": "Sanskrit" },
-  { "name": "Pihu", "meaning": "Joyful", "origin": "Sanskrit" },
-  { "name": "Gauri", "meaning": "Light", "origin": "Sanskrit" },
-  { "name": "Myra", "meaning": "Hope", "origin": "Sanskrit" },
-  { "name": "Vanya", "meaning": "Bringer of joy", "origin": "Sanskrit" },
-  { "name": "Jivika", "meaning": "Protector", "origin": "Sanskrit" },
-  { "name": "Navya", "meaning": "Wise", "origin": "Sanskrit" },
-  { "name": "Kanika", "meaning": "Light", "origin": "Sanskrit" },
-  { "name": "Yamini", "meaning": "Gift of God", "origin": "Sanskrit" },
-  { "name": "Sharanya", "meaning": "Hope", "origin": "Sanskrit" },
-  { "name": "Advika", "meaning": "Noble", "origin": "Sanskrit" },
-  { "name": "Tejasvi", "meaning": "Graceful", "origin": "Sanskrit" },
-  { "name": "Bhuvika", "meaning": "Joyful", "origin": "Sanskrit" },
-  { "name": "Kritika", "meaning": "Hope", "origin": "Sanskrit" },
-  { "name": "Lavanya", "meaning": "Light", "origin": "Sanskrit" },
-  { "name": "Rashmi", "meaning": "Bringer of joy", "origin": "Sanskrit" },
-  { "name": "Tanmay", "meaning": "Protector", "origin": "Sanskrit" },
-  { "name": "Vishal", "meaning": "Wise", "origin": "Sanskrit" },
-  { "name": "Pratyush", "meaning": "Hope", "origin": "Sanskrit" },
-  { "name": "Bhavesh", "meaning": "Noble", "origin": "Sanskrit" },
-  { "name": "Naman", "meaning": "Graceful", "origin": "Sanskrit" },
-  { "name": "Rajeev", "meaning": "Light", "origin": "Sanskrit" },
-  { "name": "Mahesh", "meaning": "Protector", "origin": "Sanskrit" },
-  { "name": "Devesh", "meaning": "Bringer of joy", "origin": "Sanskrit" },
-  { "name": "Lalit", "meaning": "Gift of God", "origin": "Sanskrit" },
-  { "name": "Suresh", "meaning": "Wise", "origin": "Sanskrit" },
-  { "name": "Anjali", "meaning": "Graceful", "origin": "Sanskrit" },
-  { "name": "Bhakti", "meaning": "Joyful", "origin": "Sanskrit" },
-  { "name": "Karishma", "meaning": "Hope", "origin": "Sanskrit" },
-  { "name": "Namrata", "meaning": "Protector", "origin": "Sanskrit" },
-  { "name": "Sneha", "meaning": "Noble", "origin": "Sanskrit" },
-  { "name": "Vaishnavi", "meaning": "Light", "origin": "Sanskrit" },
-  { "name": "Durga", "meaning": "Wise", "origin": "Sanskrit" },
-  { "name": "Kajal", "meaning": "Bringer of joy", "origin": "Sanskrit" },
-  { "name": "Shraddha", "meaning": "Gift of God", "origin": "Sanskrit" },
-  { "name": "Priya", "meaning": "Graceful", "origin": "Sanskrit" },
-  { "name": "Rohan", "meaning": "Ascending", "origin": "Sanskrit" },
-  { "name": "Kiran", "meaning": "Positivity", "origin": "Sanskrit" },
-  { "name": "Liam", "meaning": "Protector", "origin": "Arabic" },
-  { "name": "Sophia", "meaning": "Joyful", "origin": "Latin" },
-  { "name": "Ethan", "meaning": "Wise", "origin": "Greek" },
-  { "name": "Isabella", "meaning": "Gift of God", "origin": "Latin" },
-  { "name": "James", "meaning": "Beloved", "origin": "Greek" },
-  { "name": "Aria", "meaning": "Graceful", "origin": "French" },
-  { "name": "Benjamin", "meaning": "Hope", "origin": "English" },
-  { "name": "Mila", "meaning": "Joyful", "origin": "Latin" },
-  { "name": "Lucas", "meaning": "Protector", "origin": "Arabic" },
-  { "name": "Zara", "meaning": "Wise", "origin": "Latin" },
-  { "name": "Henry", "meaning": "Gift of God", "origin": "Greek" },
-  { "name": "Layla", "meaning": "Graceful", "origin": "Greek" },
-  { "name": "Elijah", "meaning": "Hope", "origin": "Latin" },
-  { "name": "Chloe", "meaning": "Bringer of joy", "origin": "Sanskrit" },
-  { "name": "Logan", "meaning": "Light", "origin": "Sanskrit" },
-  { "name": "Nora", "meaning": "Hope", "origin": "Latin" },
-  { "name": "Alexander", "meaning": "Beloved", "origin": "French" },
-  { "name": "Lily", "meaning": "Wise", "origin": "Arabic" },
-  { "name": "Daniel", "meaning": "Joyful", "origin": "Greek" },
-  { "name": "Hazel", "meaning": "Graceful", "origin": "French" },
-  { "name": "Matthew", "meaning": "Bringer of joy", "origin": "Greek" },
-  { "name": "Ellie", "meaning": "Hope", "origin": "French" },
-  { "name": "Sebastian", "meaning": "Wise", "origin": "Arabic" },
-  { "name": "Grace", "meaning": "Bringer of joy", "origin": "Arabic" },
-  { "name": "Jackson", "meaning": "Beloved", "origin": "Greek" },
-  { "name": "Aurora", "meaning": "Hope", "origin": "Greek" },
-  { "name": "Levi", "meaning": "Bringer of joy", "origin": "Greek" },
-  { "name": "Penelope", "meaning": "Wise", "origin": "Greek" },
-  { "name": "Owen", "meaning": "Protector", "origin": "Arabic" },
-  { "name": "Riley", "meaning": "Light", "origin": "Greek" },
-  { "name": "Gabriel", "meaning": "Beloved", "origin": "Latin" },
-  { "name": "Victoria", "meaning": "Hope", "origin": "Greek" },
-  { "name": "Wyatt", "meaning": "Wise", "origin": "Arabic" },
-  { "name": "Savannah", "meaning": "Noble", "origin": "Arabic" },
-  { "name": "Carter", "meaning": "Joyful", "origin": "German" },
-  { "name": "Addison", "meaning": "Beloved", "origin": "Latin" },
-  { "name": "Jayden", "meaning": "Graceful", "origin": "Arabic" },
-  { "name": "Brooklyn", "meaning": "Hope", "origin": "French" },
-  { "name": "Luke", "meaning": "Light", "origin": "German" },
-  { "name": "Bella", "meaning": "Bringer of joy", "origin": "French" },
-  { "name": "Isaac", "meaning": "Hope", "origin": "French" },
-  { "name": "Claire", "meaning": "Bringer of joy", "origin": "Latin" },
-  { "name": "Julian", "meaning": "Light", "origin": "Arabic" },
-  { "name": "Skylar", "meaning": "Bringer of joy", "origin": "Greek" },
-  { "name": "Grayson", "meaning": "Beloved", "origin": "Greek" },
-  { "name": "Lucy", "meaning": "Bringer of joy", "origin": "Greek" },
-  { "name": "Leo", "meaning": "Noble", "origin": "German" },
-  { "name": "Paisley", "meaning": "Hope", "origin": "Latin" },
-  { "name": "Jaxon", "meaning": "Beloved", "origin": "Latin" },
-  { "name": "Everly", "meaning": "Graceful", "origin": "German" },
-  { "name": "Lincoln", "meaning": "Joyful", "origin": "Latin" },
-  { "name": "Anna", "meaning": "Bringer of joy", "origin": "Sanskrit" },
-  { "name": "Ezra", "meaning": "Beloved", "origin": "Greek" },
-  { "name": "Madelyn", "meaning": "Hope", "origin": "Greek" },
-  { "name": "Josiah", "meaning": "Bringer of joy", "origin": "German" },
-  { "name": "Samantha", "meaning": "Graceful", "origin": "Sanskrit" },
-  { "name": "Hudson", "meaning": "Wise", "origin": "French" },
-  { "name": "Leah", "meaning": "Bringer of joy", "origin": "Sanskrit" },
-  { "name": "Caleb", "meaning": "Hope", "origin": "Latin" },
-  { "name": "Aaliyah", "meaning": "Light", "origin": "Latin" },
-  { "name": "Christian", "meaning": "Protector", "origin": "Latin" },
-  { "name": "Kennedy", "meaning": "Joyful", "origin": "Latin" },
-  { "name": "Maverick", "meaning": "Noble", "origin": "Greek" },
-  { "name": "Sarah", "meaning": "Graceful", "origin": "Latin" },
-  { "name": "Nathan", "meaning": "Light", "origin": "German" },
-  { "name": "Elena", "meaning": "Hope", "origin": "Greek" },
-  { "name": "Nolan", "meaning": "Beloved", "origin": "Latin" },
-  { "name": "Caroline", "meaning": "Wise", "origin": "Latin" },
-  { "name": "Adrian", "meaning": "Joyful", "origin": "Arabic" },
-  { "name": "Violet", "meaning": "Protector", "origin": "French" },
-  { "name": "Aaron", "meaning": "Bringer of joy", "origin": "Latin" },
-  { "name": "Allison", "meaning": "Hope", "origin": "Arabic" },
-  { "name": "Hunter", "meaning": "Bringer of joy", "origin": "Latin" },
-  { "name": "Naomi", "meaning": "Graceful", "origin": "Sanskrit" },
-  { "name": "Eli", "meaning": "Hope", "origin": "Arabic" },
-  { "name": "Alice", "meaning": "Light", "origin": "French" },
-  { "name": "Thomas", "meaning": "Beloved", "origin": "Greek" },
-  { "name": "Genesis", "meaning": "Bringer of joy", "origin": "Latin" },
-  { "name": "Charles", "meaning": "Wise", "origin": "Greek" },
-  { "name": "Hailey", "meaning": "Graceful", "origin": "Latin" },
-  { "name": "Christopher", "meaning": "Hope", "origin": "German" },
-  { "name": "Sadie", "meaning": "Light", "origin": "Sanskrit" },
-  { "name": "Jace", "meaning": "Beloved", "origin": "Latin" },
-  { "name": "Eva", "meaning": "Protector", "origin": "Arabic" },
-  { "name": "Andrew", "meaning": "Noble", "origin": "Greek" },
-  { "name": "Emilia", "meaning": "Light", "origin": "Greek" },
-  { "name": "Dominic", "meaning": "Graceful", "origin": "French" },
-  { "name": "Autumn", "meaning": "Bringer of joy", "origin": "Arabic" },
-  { "name": "Angel", "meaning": "Hope", "origin": "French" },
-  { "name": "Quinn", "meaning": "Protector", "origin": "Greek" },
-  { "name": "Roman", "meaning": "Wise", "origin": "Arabic" },
-  { "name": "Nevaeh", "meaning": "Light", "origin": "Latin" },
-  { "name": "Austin", "meaning": "Hope", "origin": "French" },
-  { "name": "Peyton", "meaning": "Graceful", "origin": "Greek" },
-  { "name": "Jonathan", "meaning": "Bringer of joy", "origin": "Latin" },
-  { "name": "Serenity", "meaning": "Hope", "origin": "German" }
+  {
+    "name": "Diyara",
+    "meaning": "Poetry",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Bhavyara",
+    "meaning": "Care",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Satya",
+    "meaning": "Truth",
+    "origin": "Sanskrit"
+  },
+   {
+    "name": "Kiran",
+    "meaning": "Positivity",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Aadhyain",
+    "meaning": "Sun",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Krishnain",
+    "meaning": "Beloved",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Siddharthish",
+    "meaning": "Lamp",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Aryanesh",
+    "meaning": "Beloved",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Shivanshdeep",
+    "meaning": "Part of Lord Shiva",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Aaravit",
+    "meaning": "Grace",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Ishaanal",
+    "meaning": "Divine",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Rohanit",
+    "meaning": "Lamp",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Aadhyapreet",
+    "meaning": "Prosperous",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Radhaesh",
+    "meaning": "Full of life",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Nikhilan",
+    "meaning": "Peaceful",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Diyau",
+    "meaning": "Full of life",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Vihaan",
+    "meaning": "Full of life",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Anayaesh",
+    "meaning": "Prosperous",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Sharvaniu",
+    "meaning": "Grace",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Aryanal",
+    "meaning": "Modest",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Anikaav",
+    "meaning": "Part of Lord Shiva",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Siddharthra",
+    "meaning": "Sun",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Bhavyain",
+    "meaning": "Morning dawn",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Tanyara",
+    "meaning": "Earth",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Anikaya",
+    "meaning": "Lamp",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Iraesh",
+    "meaning": "Care",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Vedikaal",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Lakshpreet",
+    "meaning": "Sunlight",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Meeraal",
+    "meaning": "Sacred",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Saanviu",
+    "meaning": "Peaceful",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Devpreet",
+    "meaning": "Modest",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Devish",
+    "meaning": "Poetry",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Omit",
+    "meaning": "Morning dawn",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Manavit",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Ishaanit",
+    "meaning": "Care",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Meeraan",
+    "meaning": "Warrior prince",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Tanyaav",
+    "meaning": "Sacred",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Omdeep",
+    "meaning": "First power",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Nikhilesh",
+    "meaning": "Prosperous",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Iraal",
+    "meaning": "Sun",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Tanvikant",
+    "meaning": "Beloved",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Meerait",
+    "meaning": "Poetry",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Poojaal",
+    "meaning": "First power",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Lakshal",
+    "meaning": "Beloved",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Aarav",
+    "meaning": "Peaceful",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Rudraal",
+    "meaning": "Sacred",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Myraesh",
+    "meaning": "Modest",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Sharvaniish",
+    "meaning": "Peaceful",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Myraya",
+    "meaning": "Earth",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Radhaya",
+    "meaning": "Sun",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Bhavya",
+    "meaning": "Grace",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Myraav",
+    "meaning": "Warrior prince",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Anika",
+    "meaning": "God",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Rudrau",
+    "meaning": "Earth",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Adityaesh",
+    "meaning": "Prosperous",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Krishnara",
+    "meaning": "Divine",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Adityaish",
+    "meaning": "Prosperous",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Aryanav",
+    "meaning": "Morning dawn",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Irara",
+    "meaning": "Prosperous",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Meerapreet",
+    "meaning": "Sacred",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Shivanshan",
+    "meaning": "Sun",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Adityadeep",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Arjunin",
+    "meaning": "Beloved",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Vivaanan",
+    "meaning": "Prosperous",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Siddharthesh",
+    "meaning": "Morning dawn",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Diyait",
+    "meaning": "Peaceful",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Sharvanikant",
+    "meaning": "Part of Lord Shiva",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Shivansh",
+    "meaning": "Peaceful",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Avniya",
+    "meaning": "First power",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Omal",
+    "meaning": "Lamp",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Ishaanya",
+    "meaning": "Lamp",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Vedikait",
+    "meaning": "Sun",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Rahuldeep",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Rahulan",
+    "meaning": "Care",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Nandinideep",
+    "meaning": "Sunlight",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Anaya",
+    "meaning": "Prosperous",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Omin",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Avnial",
+    "meaning": "Full of life",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Rohanal",
+    "meaning": "Lamp",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Adityapreet",
+    "meaning": "Poetry",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Rohanin",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Tanyaal",
+    "meaning": "Modest",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Ishaanra",
+    "meaning": "Divine",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Ishaanav",
+    "meaning": "Earth",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Aditya",
+    "meaning": "Full of life",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Myraish",
+    "meaning": "Care",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Sharvaniav",
+    "meaning": "Sun",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Charviit",
+    "meaning": "Poetry",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Arjundeep",
+    "meaning": "Prosperous",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Aryankant",
+    "meaning": "Divine",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Poojaan",
+    "meaning": "God",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Anikain",
+    "meaning": "Grace",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Meeraav",
+    "meaning": "Sunlight",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Devu",
+    "meaning": "Part of Lord Shiva",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Avniu",
+    "meaning": "Sacred",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Saikant",
+    "meaning": "First power",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Manavdeep",
+    "meaning": "Sacred",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Poojaish",
+    "meaning": "Grace",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Aadhyaesh",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Rudrain",
+    "meaning": "Lamp",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Tanvian",
+    "meaning": "Beloved",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Avniit",
+    "meaning": "Grace",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Tanyakant",
+    "meaning": "Earth",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Omra",
+    "meaning": "Sacred",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Yashkant",
+    "meaning": "God",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Charviin",
+    "meaning": "God",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Avniish",
+    "meaning": "Full of life",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Poojain",
+    "meaning": "Full of life",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Tanviya",
+    "meaning": "Beloved",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Aaravkant",
+    "meaning": "God",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Nikhilav",
+    "meaning": "Grace",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Nandiniya",
+    "meaning": "Care",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Tanya",
+    "meaning": "Peaceful",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Vedikapreet",
+    "meaning": "Sacred",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Nandiniit",
+    "meaning": "God",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Shivanshav",
+    "meaning": "Warrior prince",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Aadhyadeep",
+    "meaning": "First power",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Siddharthu",
+    "meaning": "Sun",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Saiu",
+    "meaning": "Sacred",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Radha",
+    "meaning": "Morning dawn",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Adityara",
+    "meaning": "Poetry",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Bhavyaav",
+    "meaning": "Prosperous",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Vedikadeep",
+    "meaning": "Divine",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Radhadeep",
+    "meaning": "Part of Lord Shiva",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Bhavyait",
+    "meaning": "Grace",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Siddharth",
+    "meaning": "Full of life",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Bhavyaya",
+    "meaning": "Care",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Bhavyakant",
+    "meaning": "Part of Lord Shiva",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Irain",
+    "meaning": "Warrior prince",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Sharvaniit",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Lakshish",
+    "meaning": "Grace",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Vihaanu",
+    "meaning": "Sunlight",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Nikhil",
+    "meaning": "Poetry",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Vivaanin",
+    "meaning": "Peaceful",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Vedikaya",
+    "meaning": "God",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Kavyau",
+    "meaning": "Earth",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Krishnau",
+    "meaning": "Part of Lord Shiva",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Aaravin",
+    "meaning": "Earth",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Ishaanin",
+    "meaning": "Divine",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Lakshra",
+    "meaning": "Warrior prince",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Aaravu",
+    "meaning": "Earth",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Anikakant",
+    "meaning": "Sun",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Charvian",
+    "meaning": "Morning dawn",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Sharvanideep",
+    "meaning": "Morning dawn",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Om",
+    "meaning": "Peaceful",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Nandiniav",
+    "meaning": "Full of life",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Arjunit",
+    "meaning": "Warrior prince",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Radhara",
+    "meaning": "Sacred",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Adityaan",
+    "meaning": "Prosperous",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Vivaanav",
+    "meaning": "Modest",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Vivaan",
+    "meaning": "Care",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Poojadeep",
+    "meaning": "God",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Adityaal",
+    "meaning": "Lamp",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Devan",
+    "meaning": "Peaceful",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Anayaya",
+    "meaning": "Divine",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Adityakant",
+    "meaning": "Modest",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Aadhya",
+    "meaning": "Warrior prince",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Rahulra",
+    "meaning": "Lamp",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Lakshkant",
+    "meaning": "Modest",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Krishnaish",
+    "meaning": "Modest",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Devkant",
+    "meaning": "Peaceful",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Meeraya",
+    "meaning": "Beloved",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Krishnaan",
+    "meaning": "Peaceful",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Saanviish",
+    "meaning": "Peaceful",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Rahulav",
+    "meaning": "Sunlight",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Vihaanesh",
+    "meaning": "Lamp",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Rohanan",
+    "meaning": "Peaceful",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Shivanshu",
+    "meaning": "Full of life",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Anayara",
+    "meaning": "Modest",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Radhaan",
+    "meaning": "Part of Lord Shiva",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Saanvikant",
+    "meaning": "Warrior prince",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Aryandeep",
+    "meaning": "Full of life",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Charviesh",
+    "meaning": "Poetry",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Avnideep",
+    "meaning": "Part of Lord Shiva",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Ishaanan",
+    "meaning": "God",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Vihaanra",
+    "meaning": "Peaceful",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Nandinikant",
+    "meaning": "Care",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Diyakant",
+    "meaning": "Morning dawn",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Vedikakant",
+    "meaning": "Peaceful",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Myrapreet",
+    "meaning": "Morning dawn",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Nityakant",
+    "meaning": "Prosperous",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Charvi",
+    "meaning": "Modest",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Aryanu",
+    "meaning": "First power",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Yashan",
+    "meaning": "Beloved",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Saanviit",
+    "meaning": "First power",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Vivaanit",
+    "meaning": "Sunlight",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Radhaish",
+    "meaning": "Poetry",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Tanviit",
+    "meaning": "God",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Nikhilish",
+    "meaning": "Poetry",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Manavra",
+    "meaning": "Poetry",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Anayau",
+    "meaning": "Part of Lord Shiva",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Manavu",
+    "meaning": "Earth",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Charvial",
+    "meaning": "Poetry",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Oman",
+    "meaning": "Warrior prince",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Shivanshin",
+    "meaning": "Divine",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Krishnaav",
+    "meaning": "Peaceful",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Kavyara",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Saipreet",
+    "meaning": "Sacred",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Aaravav",
+    "meaning": "Divine",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Saanviav",
+    "meaning": "Prosperous",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Aaravdeep",
+    "meaning": "Modest",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Krishnapreet",
+    "meaning": "Peaceful",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Adityain",
+    "meaning": "First power",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Siddharthan",
+    "meaning": "Earth",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Manavin",
+    "meaning": "Divine",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Sharvanian",
+    "meaning": "Sacred",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Aadhyara",
+    "meaning": "Sunlight",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Radhau",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Sai",
+    "meaning": "Poetry",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Nikhilya",
+    "meaning": "First power",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Poojaya",
+    "meaning": "Lamp",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Radhakant",
+    "meaning": "Prosperous",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Siddharthpreet",
+    "meaning": "Poetry",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Diyaesh",
+    "meaning": "Full of life",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Nandinipreet",
+    "meaning": "Peaceful",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Bhavyaish",
+    "meaning": "Sun",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Nityaish",
+    "meaning": "Poetry",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Adityait",
+    "meaning": "First power",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Bhavyadeep",
+    "meaning": "Sunlight",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Avnira",
+    "meaning": "Full of life",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Tanyaya",
+    "meaning": "Modest",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Anikait",
+    "meaning": "Lamp",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Kavyaya",
+    "meaning": "Sun",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Saiav",
+    "meaning": "Grace",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Sharvanial",
+    "meaning": "Earth",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Aadhyaal",
+    "meaning": "Morning dawn",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Kavyapreet",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Krishnadeep",
+    "meaning": "Lamp",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Nikhilra",
+    "meaning": "Care",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Irait",
+    "meaning": "Sunlight",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Charvikant",
+    "meaning": "Modest",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Charviya",
+    "meaning": "Care",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Adityaav",
+    "meaning": "Peaceful",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Tanviu",
+    "meaning": "Peaceful",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Tanyain",
+    "meaning": "Divine",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Yash",
+    "meaning": "Modest",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Charviav",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Saanvial",
+    "meaning": "First power",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Rohankant",
+    "meaning": "Lamp",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Kavyaesh",
+    "meaning": "Beloved",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Aryan",
+    "meaning": "Warrior prince",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Aaraval",
+    "meaning": "Peaceful",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Anikaal",
+    "meaning": "Care",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Anayaish",
+    "meaning": "Lamp",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Anayaal",
+    "meaning": "Morning dawn",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Tanvira",
+    "meaning": "Part of Lord Shiva",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Aadhyakant",
+    "meaning": "Modest",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Rahulal",
+    "meaning": "Grace",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Kavyadeep",
+    "meaning": "Peaceful",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Arjunesh",
+    "meaning": "Sun",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Aaravish",
+    "meaning": "Prosperous",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Nandinial",
+    "meaning": "Prosperous",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Rahul",
+    "meaning": "Earth",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Myraan",
+    "meaning": "Morning dawn",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Saanvipreet",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Saiesh",
+    "meaning": "Sunlight",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Radhait",
+    "meaning": "Divine",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Manaval",
+    "meaning": "Sunlight",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Tanvideep",
+    "meaning": "Part of Lord Shiva",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Aaravra",
+    "meaning": "Peaceful",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Diyaav",
+    "meaning": "Grace",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Tanyau",
+    "meaning": "Modest",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Meerakant",
+    "meaning": "Sacred",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Sharvaniin",
+    "meaning": "Peaceful",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Saanvira",
+    "meaning": "Part of Lord Shiva",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Anikadeep",
+    "meaning": "Full of life",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Arjunish",
+    "meaning": "Sun",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Lakshan",
+    "meaning": "Modest",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Radhaav",
+    "meaning": "Earth",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Bhavyau",
+    "meaning": "Beloved",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Charviish",
+    "meaning": "Sun",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Ompreet",
+    "meaning": "Full of life",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Omya",
+    "meaning": "Sun",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Laksh",
+    "meaning": "Prosperous",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Vedika",
+    "meaning": "Warrior prince",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Ishaanesh",
+    "meaning": "Grace",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Iradeep",
+    "meaning": "Beloved",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Yashav",
+    "meaning": "Sacred",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Vivaanra",
+    "meaning": "Sunlight",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Vihaanal",
+    "meaning": "Beloved",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Vedikara",
+    "meaning": "Grace",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Nandini",
+    "meaning": "Warrior prince",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Diyaal",
+    "meaning": "Care",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Aryanpreet",
+    "meaning": "Modest",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Nityait",
+    "meaning": "Beloved",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Arjunra",
+    "meaning": "Full of life",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Myrara",
+    "meaning": "Sun",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Devya",
+    "meaning": "Beloved",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Siddharthkant",
+    "meaning": "Care",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Siddharthit",
+    "meaning": "Earth",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Manav",
+    "meaning": "Earth",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Nityau",
+    "meaning": "Modest",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Saanvian",
+    "meaning": "Sun",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Saanviya",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Anikara",
+    "meaning": "God",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Radhain",
+    "meaning": "Lamp",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Kavyaav",
+    "meaning": "Grace",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Vihaandeep",
+    "meaning": "Sun",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Adityaya",
+    "meaning": "Part of Lord Shiva",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Rohanya",
+    "meaning": "Poetry",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Nityaesh",
+    "meaning": "Care",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Rudrapreet",
+    "meaning": "Modest",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Tanyaish",
+    "meaning": "Lamp",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Nikhilkant",
+    "meaning": "Beloved",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Vihaanish",
+    "meaning": "Earth",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Diyadeep",
+    "meaning": "Beloved",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Ishaanish",
+    "meaning": "Care",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Omesh",
+    "meaning": "Lamp",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Nityaal",
+    "meaning": "Part of Lord Shiva",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Vihaanan",
+    "meaning": "Care",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Poojapreet",
+    "meaning": "God",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Bhavyaesh",
+    "meaning": "Sun",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Tanyaan",
+    "meaning": "Divine",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Manavish",
+    "meaning": "Full of life",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Aadhyaan",
+    "meaning": "God",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Aryanit",
+    "meaning": "Peaceful",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Yashdeep",
+    "meaning": "Peaceful",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Rohanpreet",
+    "meaning": "Sacred",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Avniin",
+    "meaning": "Warrior prince",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Devesh",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Myraal",
+    "meaning": "Sacred",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Vihaanpreet",
+    "meaning": "Lamp",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Vivaanal",
+    "meaning": "God",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Tanyaesh",
+    "meaning": "Warrior prince",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Tanyapreet",
+    "meaning": "Peaceful",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Manavav",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Nandiniu",
+    "meaning": "Sacred",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Saira",
+    "meaning": "Lamp",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Nityadeep",
+    "meaning": "Divine",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Arjunu",
+    "meaning": "Peaceful",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Iraan",
+    "meaning": "First power",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Myrakant",
+    "meaning": "Prosperous",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Rudraav",
+    "meaning": "Earth",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Aadhyaya",
+    "meaning": "Peaceful",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Yashin",
+    "meaning": "Poetry",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Sharvaniya",
+    "meaning": "Peaceful",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Yashya",
+    "meaning": "Divine",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Devin",
+    "meaning": "Sacred",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Nikhilin",
+    "meaning": "Prosperous",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Vedikaish",
+    "meaning": "Earth",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Yashesh",
+    "meaning": "Prosperous",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Poojau",
+    "meaning": "Peaceful",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Bhavyaal",
+    "meaning": "Sacred",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Nikhilpreet",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Lakshdeep",
+    "meaning": "Sacred",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Rudraya",
+    "meaning": "Lamp",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Charvideep",
+    "meaning": "Grace",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Aadhyaish",
+    "meaning": "Sacred",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Rohandeep",
+    "meaning": "Divine",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Avni",
+    "meaning": "Sacred",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Radhaal",
+    "meaning": "Poetry",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Rahulya",
+    "meaning": "Lamp",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Anayaan",
+    "meaning": "Sunlight",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Shivanshish",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Sharvaniesh",
+    "meaning": "Part of Lord Shiva",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Vihaanav",
+    "meaning": "Lamp",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Irapreet",
+    "meaning": "First power",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Aryanya",
+    "meaning": "First power",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Saiya",
+    "meaning": "Poetry",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Krishna",
+    "meaning": "Sunlight",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Poojaav",
+    "meaning": "Sacred",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Vivaanu",
+    "meaning": "Sun",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Vedikaav",
+    "meaning": "Prosperous",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Nityain",
+    "meaning": "Full of life",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Tanviav",
+    "meaning": "Earth",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Tanvi",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Saiit",
+    "meaning": "First power",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Ishaan",
+    "meaning": "Grace",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Adityau",
+    "meaning": "Warrior prince",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Lakshesh",
+    "meaning": "Morning dawn",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Kavyaal",
+    "meaning": "Modest",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Yashish",
+    "meaning": "Sacred",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Ishaanpreet",
+    "meaning": "Poetry",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Rahulit",
+    "meaning": "First power",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Rudrait",
+    "meaning": "Part of Lord Shiva",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Sharvani",
+    "meaning": "Peaceful",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Diyaan",
+    "meaning": "Morning dawn",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Shivanshesh",
+    "meaning": "Full of life",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Arjunpreet",
+    "meaning": "Peaceful",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Myrau",
+    "meaning": "Modest",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Vedikau",
+    "meaning": "Warrior prince",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Lakshya",
+    "meaning": "Poetry",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Aadhyait",
+    "meaning": "First power",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Arjunya",
+    "meaning": "Prosperous",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Shivanshal",
+    "meaning": "Sacred",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Devra",
+    "meaning": "Modest",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Nikhilal",
+    "meaning": "Care",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Siddharthav",
+    "meaning": "Lamp",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Rahulin",
+    "meaning": "Grace",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Kavyaish",
+    "meaning": "Sun",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Nikhilu",
+    "meaning": "Peaceful",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Siddharthya",
+    "meaning": "Earth",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Rohan",
+    "meaning": "Peaceful",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Shivanshit",
+    "meaning": "Care",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Manavpreet",
+    "meaning": "Peaceful",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Charvipreet",
+    "meaning": "Grace",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Siddharthdeep",
+    "meaning": "God",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Poojakant",
+    "meaning": "Sunlight",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Saanvideep",
+    "meaning": "Earth",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Vivaanesh",
+    "meaning": "Full of life",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Aryanan",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Aaravesh",
+    "meaning": "Prosperous",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Vihaankant",
+    "meaning": "Sun",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Rahulpreet",
+    "meaning": "Modest",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Saanviin",
+    "meaning": "First power",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Lakshu",
+    "meaning": "Warrior prince",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Diyaish",
+    "meaning": "Earth",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Nandinira",
+    "meaning": "Poetry",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Nikhilit",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Tanviish",
+    "meaning": "Modest",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Myrait",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Krishnait",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Vihaanin",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Omav",
+    "meaning": "Poetry",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Anayapreet",
+    "meaning": "Full of life",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Saial",
+    "meaning": "Divine",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Vedikaan",
+    "meaning": "Care",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Krishnaal",
+    "meaning": "Poetry",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Aryanin",
+    "meaning": "Divine",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Arjunav",
+    "meaning": "Earth",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Omu",
+    "meaning": "Sacred",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Anayakant",
+    "meaning": "Modest",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Rohanu",
+    "meaning": "Modest",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Kavyakant",
+    "meaning": "God",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Rudraan",
+    "meaning": "Sunlight",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Ishaandeep",
+    "meaning": "Grace",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Vedikaesh",
+    "meaning": "First power",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Shivanshra",
+    "meaning": "Sun",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Avniesh",
+    "meaning": "Grace",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Anayaav",
+    "meaning": "First power",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Avnikant",
+    "meaning": "Part of Lord Shiva",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Krishnaesh",
+    "meaning": "Warrior prince",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Rohanav",
+    "meaning": "Full of life",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Saian",
+    "meaning": "Sun",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Omkant",
+    "meaning": "Modest",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Sharvanipreet",
+    "meaning": "First power",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Rohanra",
+    "meaning": "Grace",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Rudradeep",
+    "meaning": "Peaceful",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Saanvi",
+    "meaning": "Sunlight",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Nityara",
+    "meaning": "Warrior prince",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Poojait",
+    "meaning": "Peaceful",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Irakant",
+    "meaning": "Full of life",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Devit",
+    "meaning": "Care",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Avniav",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Avnian",
+    "meaning": "Full of life",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Sharvanira",
+    "meaning": "Lamp",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Lakshin",
+    "meaning": "Beloved",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Nityaav",
+    "meaning": "Sunlight",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Kavyaan",
+    "meaning": "Care",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Saiin",
+    "meaning": "God",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Tanyadeep",
+    "meaning": "Warrior prince",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Meeradeep",
+    "meaning": "Poetry",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Avnipreet",
+    "meaning": "Warrior prince",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Siddharthal",
+    "meaning": "Warrior prince",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Vivaanish",
+    "meaning": "Grace",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Nityapreet",
+    "meaning": "Full of life",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Yashpreet",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Diyapreet",
+    "meaning": "Peaceful",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Aadhyaav",
+    "meaning": "Beloved",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Nandinian",
+    "meaning": "Lamp",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Yashal",
+    "meaning": "Prosperous",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Tanvial",
+    "meaning": "God",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Meeraish",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Krishnaya",
+    "meaning": "Prosperous",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Rahulkant",
+    "meaning": "Prosperous",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Poojaesh",
+    "meaning": "Poetry",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Lakshav",
+    "meaning": "Full of life",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Kavya",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Siddharthin",
+    "meaning": "Sun",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Devdeep",
+    "meaning": "Sacred",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Anikapreet",
+    "meaning": "Part of Lord Shiva",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Pooja",
+    "meaning": "Sun",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Anikaish",
+    "meaning": "Lamp",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Arjunkant",
+    "meaning": "Prosperous",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Nandiniin",
+    "meaning": "Peaceful",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Meerain",
+    "meaning": "Poetry",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Rahulu",
+    "meaning": "Sacred",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Manavya",
+    "meaning": "Sun",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Aryanra",
+    "meaning": "Earth",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Diya",
+    "meaning": "First power",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Ishaanu",
+    "meaning": "Divine",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Arjun",
+    "meaning": "Poetry",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Nikhildeep",
+    "meaning": "First power",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Anikaan",
+    "meaning": "Beloved",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Rudrakant",
+    "meaning": "Full of life",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Nandiniesh",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Rudra",
+    "meaning": "Sun",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Anikau",
+    "meaning": "Prosperous",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Diyain",
+    "meaning": "God",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Krishnakant",
+    "meaning": "Part of Lord Shiva",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Iraish",
+    "meaning": "Peaceful",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Shivanshya",
+    "meaning": "Full of life",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Shivanshkant",
+    "meaning": "God",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Myra",
+    "meaning": "Poetry",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Aaravya",
+    "meaning": "God",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Rudraish",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Omish",
+    "meaning": "Peaceful",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Rudraesh",
+    "meaning": "Earth",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Tanvipreet",
+    "meaning": "Sun",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Vedikain",
+    "meaning": "Morning dawn",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Manavkant",
+    "meaning": "Divine",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Kavyait",
+    "meaning": "Earth",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Rahulesh",
+    "meaning": "Grace",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Deval",
+    "meaning": "Goddess Lakshmi",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Meerau",
+    "meaning": "Earth",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Dev",
+    "meaning": "Peaceful",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Ishaankant",
+    "meaning": "Morning dawn",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Arjunal",
+    "meaning": "Sacred",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Bhavyapreet",
+    "meaning": "Lamp",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Devav",
+    "meaning": "Grace",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Nandiniish",
+    "meaning": "Warrior prince",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Meeraesh",
+    "meaning": "Prosperous",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Iraav",
+    "meaning": "God",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Saiish",
+    "meaning": "Modest",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Ira",
+    "meaning": "Beloved",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Lakshit",
+    "meaning": "Part of Lord Shiva",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Anayain",
+    "meaning": "Grace",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Rudrara",
+    "meaning": "Modest",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Aaravpreet",
+    "meaning": "Lamp",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Irau",
+    "meaning": "Warrior prince",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Anayait",
+    "meaning": "Modest",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Aryanish",
+    "meaning": "Sunlight",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Vivaanya",
+    "meaning": "Grace",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Yashra",
+    "meaning": "Sacred",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Meera",
+    "meaning": "Lamp",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Manavesh",
+    "meaning": "Sacred",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Rohanesh",
+    "meaning": "Grace",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Kavyain",
+    "meaning": "Beloved",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Arjunan",
+    "meaning": "Modest",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Radhapreet",
+    "meaning": "Sunlight",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Nitya",
+    "meaning": "Prosperous",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Aaravan",
+    "meaning": "Modest",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Diyaya",
+    "meaning": "Grace",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Anayadeep",
+    "meaning": "Prosperous",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Manavan",
+    "meaning": "Peaceful",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Bhavyaan",
+    "meaning": "Grace",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Myradeep",
+    "meaning": "Prosperous",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Vivaanpreet",
+    "meaning": "Grace",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Saanviesh",
+    "meaning": "Morning dawn",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Meerara",
+    "meaning": "Divine",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Yashit",
+    "meaning": "Divine",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Tanviesh",
+    "meaning": "Beloved",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Tanviin",
+    "meaning": "Sunlight",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Aadhyau",
+    "meaning": "Earth",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Nityaan",
+    "meaning": "Sacred",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Saideep",
+    "meaning": "Beloved",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Poojara",
+    "meaning": "Sun",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Anikaesh",
+    "meaning": "Sunlight",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Vihaanit",
+    "meaning": "Warrior prince",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Nityaya",
+    "meaning": "Modest",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Yashu",
+    "meaning": "Morning dawn",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Vivaandeep",
+    "meaning": "God",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Vihaanya",
+    "meaning": "Divine",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Vivaankant",
+    "meaning": "Earth",
+    "origin": "Puranic"
+  },
+  {
+    "name": "Myrain",
+    "meaning": "Modest",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Charvira",
+    "meaning": "Earth",
+    "origin": "Vedic"
+  },
+  {
+    "name": "Rohanish",
+    "meaning": "God",
+    "origin": "Hindi"
+  },
+  {
+    "name": "Charviu",
+    "meaning": "Peaceful",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Iraya",
+    "meaning": "Prosperous",
+    "origin": "Sanskrit"
+  },
+  {
+    "name": "Tanyait",
+    "meaning": "Care",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Shivanshpreet",
+    "meaning": "Warrior prince",
+    "origin": "Mythological"
+  },
+  {
+    "name": "Rahulish",
+    "meaning": "First power",
+    "origin": "Sanskrit"
+  }
 ]
