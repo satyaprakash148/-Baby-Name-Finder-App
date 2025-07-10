@@ -36,7 +36,6 @@
     transform: rotate(360deg);
   }
 }
-/* Reset some base styles */
 * {
   box-sizing: border-box;
   margin: 0;
@@ -81,15 +80,11 @@ input[type="text"]:focus {
   border-color: #007bff;
   outline: none;
 }
-
-/* Name list grid */
 .name-list {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
   gap: 20px;
 }
-
-/* Card style */
 .card {
   background: white;
   border: 1px solid #e1e4e8;
@@ -98,28 +93,28 @@ input[type="text"]:focus {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.04);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
-
 .card:hover {
   transform: translateY(-4px);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
 }
-
-/* Name */
 .card h2 {
   color: #1a73e8;
   font-size: 1.5rem;
   margin-bottom: 10px;
 }
-
-/* Meaning */
 .card p {
   font-size: 1rem;
   color: #555;
 }
-
-/* Origin */
 .card small {
   font-size: 0.875rem;
   color: #888;
 }
-
+.container{
+  background-image: url("./shot-cute-baby-girl-looking-camera.png"); 
+  background-position:center;    
+  background-repeat: no-repeat;   
+  min-height: 100vh;          
+  padding: 20px;
+  color: #fff;                  
+}

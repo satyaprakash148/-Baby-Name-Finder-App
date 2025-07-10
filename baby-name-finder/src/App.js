@@ -4,19 +4,22 @@ import babyData from "./babyName.json";
 
 function App() {
   const [search, setSearch] = useState("");
-  const babyNames = babyData;
-
+  const [names] = useState(babyData);
+ 
   const filteredNames = search
-    ? babyNames.filter((baby) => {
-        const query = search.toLowerCase().trim();
-        return baby.name.toLowerCase().startsWith(query);
-      })
-    : [];
+  ? names.filter((baby) => {
+      const query = search.toLowerCase().trim();
+      return (
+        baby.name.toLowerCase().startsWith(query) ||
+        baby.origin.toLowerCase().startsWith(query)
+      );
+    })
+  : [];
+
 
   return (
     <div className="container">
       <h1>Baby Name Finder</h1>
-
       <div className="search-box">
         <input
           type="text"
@@ -25,7 +28,6 @@ function App() {
           onChange={(e) => setSearch(e.target.value)}
         />
       </div>
-
       <div className="name-list">
         {filteredNames.map((baby, index) => (
           <div key={index} className="card">
@@ -45,5 +47,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
